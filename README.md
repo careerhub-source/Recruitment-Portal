@@ -1,10 +1,10 @@
-# Career Portal Software by Danvast Group
+# Recruitment portal or Career Portal Software by Danvast Group
 
-Welcome to the official GitHub repository for the **Career Portal Software** developed and maintained by **Danvast Group**. This open-source project provides a comprehensive platform for managing job postings, applications, and candidate tracking – ideal for organizations looking to streamline their recruitment process.
+Welcome to the official GitHub repository for the **Recruitment portal or Career Portal Software** developed and maintained by **Danvast Group**. This open-source project provides a comprehensive platform for managing job postings, applications, and candidate tracking – ideal for organizations looking to streamline their recruitment process.
 
 ## 🔍 Overview
 
-The **Career Portal Software** is designed to help businesses and HR departments:
+The **Recruitment portal or Career Portal Software** is designed to help businesses and HR departments:
 
 - Publish job vacancies with detailed descriptions  
 - Allow candidates to browse, search, and apply for jobs  
@@ -12,7 +12,7 @@ The **Career Portal Software** is designed to help businesses and HR departments
 - Automate email responses and status updates  
 - Track application progress and recruitment metrics  
 
-## 🌐 Live Implementations
+## 🌐 Live Implementations of Recruitment portal
 
 Our live implementations are currently in active development. Explore our platforms:
 
@@ -22,7 +22,7 @@ Our live implementations are currently in active development. Explore our platfo
 
 These platforms are being continuously improved and may reflect in-progress features or testing stages.
 
-## 🚀 Features
+## 🚀 Features Recruitment portal
 
 - Mobile-responsive design  
 - Applicant tracking system (ATS)  
@@ -32,7 +32,7 @@ These platforms are being continuously improved and may reflect in-progress feat
 - Job categorization and tagging  
 - Secure user authentication (for both candidates and admins)
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack for Recruitment portal
 
 - **Frontend**: React.js / HTML5 / CSS3  
 - **Backend**: Laravel / Node.js / Express.js / Django (based on configuration)  
